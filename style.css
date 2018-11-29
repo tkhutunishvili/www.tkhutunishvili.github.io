@@ -16,7 +16,7 @@ body {
 }
 
 .sigline{
-    color: dimgrey;
+    color: dimgray;
     text-align: right;
     font-family: sylfaen
     
@@ -81,21 +81,13 @@ h5 {
   margin: 70px;
 }
 
-#summary {
+#text-bottom {
   margin: 10px;
   font-size: 17px;
   line-height: 1.8em;
 }
 
-
-#city-sample {
-	float: left;
-	width: 200px;
-	height: 200px;
-	margin: 10px 20px;
-}
-
-#landing-viz {
+#img-png {
   padding:15px 15px 15px 15px;
   width: 100%;
   height: 100%;
@@ -106,7 +98,7 @@ h5 {
 }
 
 .jumbotron {
-  color: #fff;
+  color: #20B2AA;
   background-color: white;
   width: 100%;
   height: 100%;
@@ -121,7 +113,7 @@ h5 {
   padding: 15px;
 }
 
-#viz-main {
+#img-png1 {
   padding: 25px 40px 30px 40px;
   width: 100%;
  }
@@ -156,7 +148,7 @@ h5 {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: dimgrey;
+   background-color: dimgray;
    color: white;
    text-align: center;
 }
